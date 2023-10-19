@@ -22,7 +22,7 @@ Especificações técnincas:
 
 Prova de conceito para descrever como utilizar uma das interfaces de comunicação com outros sistemas
 
-Conexão I2C entre Raspberry Pi Pico e Display LCD (Simulação feita utilizando wokwi)
+Conexão I2C entre Raspberry Pi Pico e Display LCD (Simulação feita utilizando wokwi), utilizando python
 
 <img width="965" alt="image" src="https://github.com/joaoalca/Raspberry-Pico/assets/99261425/fb630089-3546-48a4-9149-14e4c0badc59">
 
