@@ -19,3 +19,15 @@ Especificações técnincas:
 - Controlador USB: USB 1.1
 
 - <img width="1187" alt="image" src="https://github.com/joaoalca/Raspberry-Pico/assets/99261425/54efb733-e996-4a4a-8b77-c7fdf78d1c77">
+
+Prova de conceito para descrever como utilizar uma das interfaces de comunicação com outros sistemas
+
+Conexão I2C entre Raspberry Pi Pico e Display LCD (Simulação feita utilizando wokwi)
+
+<img width="965" alt="image" src="https://github.com/joaoalca/Raspberry-Pico/assets/99261425/fb630089-3546-48a4-9149-14e4c0badc59">
+
+Conexão:
+- Pino LCD GND no Raspberry Pi Pico GND
+- Pino LCD VCC no Raspberry Pi Pico VBUS
+- Pino LCD SDA no Raspberry Pi Pico pino GPIO 0
+- Pino LCD SCL no Raspberry Pi Pico pino GPIO 1
